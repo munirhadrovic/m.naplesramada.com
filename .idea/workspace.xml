@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baf4bc6c-8e7f-49c4-b169-1fd79594e7e6" name="Default" comment="" />
+    <list default="true" id="baf4bc6c-8e7f-49c4-b169-1fd79594e7e6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/index.php" afterPath="$PROJECT_DIR$/first/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="m.dogspot.org.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -28,7 +31,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.615385" vertical-offset="51" max-vertical-offset="1853">
+            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1853">
               <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
               <folding>
                 <marker date="1427704931767" expanded="true" signature="2581:2592" placeholder="..." />
@@ -54,51 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style4.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style4.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="5882">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slicknav.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first/css/slicknav.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1972">
-              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8" vertical-offset="1734" max-vertical-offset="5593">
-              <caret line="142" column="29" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.mobile-1.4.5.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="17895" max-vertical-offset="80614">
-              <caret line="1122" column="0" selection-start-line="1122" selection-start-column="0" selection-end-line="1122" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style-mobile.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3259" max-vertical-offset="4420">
-              <caret line="210" column="10" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.3" vertical-offset="1734" max-vertical-offset="5593">
+              <caret line="117" column="76" selection-start-line="117" selection-start-column="76" selection-end-line="117" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -228,7 +191,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../m.chick-fil-a.com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
   </component>
@@ -247,9 +210,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -257,6 +217,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -330,6 +293,71 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1853">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          <folding>
+            <marker date="1427704931767" expanded="true" signature="2581:2592" placeholder="..." />
+            <marker date="1427704931767" expanded="true" signature="2604:2621" placeholder="..." />
+            <marker date="1427704931767" expanded="true" signature="3370:3381" placeholder="..." />
+            <marker date="1427704931767" expanded="true" signature="3393:3410" placeholder="..." />
+            <marker date="1427704931767" expanded="true" signature="4374:4385" placeholder="..." />
+            <marker date="1427704931767" expanded="true" signature="4397:4414" placeholder="..." />
+            <marker date="1427704931767" expanded="true" signature="5263:5274" placeholder="..." />
+            <marker date="1427704931767" expanded="true" signature="5286:5303" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2397" max-vertical-offset="3638">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="5882">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/slicknav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1972">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/jquery.mobile-1.4.5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17895" max-vertical-offset="80614">
+          <caret line="1122" column="0" selection-start-line="1122" selection-start-column="0" selection-end-line="1122" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/css/style-mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3259" max-vertical-offset="4420">
+          <caret line="210" column="10" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1853">
@@ -475,7 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617" vertical-offset="51" max-vertical-offset="1513">
           <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -483,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13789108" vertical-offset="0" max-vertical-offset="863">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,7 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13789108" vertical-offset="0" max-vertical-offset="863">
           <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,7 +562,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.615385" vertical-offset="51" max-vertical-offset="1853">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1853">
           <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
           <folding>
             <marker date="1427704931767" expanded="true" signature="2581:2592" placeholder="..." />
@@ -554,8 +579,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8" vertical-offset="1734" max-vertical-offset="5593">
-          <caret line="142" column="29" selection-start-line="142" selection-start-column="29" selection-end-line="142" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.3" vertical-offset="1734" max-vertical-offset="5593">
+          <caret line="117" column="76" selection-start-line="117" selection-start-column="76" selection-end-line="117" selection-end-column="76" />
           <folding />
         </state>
       </provider>
